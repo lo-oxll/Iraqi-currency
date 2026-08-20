@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<title>الرمز = د.ع = IQD</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css.css">
+</head>
+<body>
+
+<div class="showcase">
+  <h2>الرمز = د.ع = IQD</h2>
+  <p class="sub">نفس السعر، ثلاث طرق لكتابته</p>
+
+  <div class="group">
+    <div class="three">
+      <div class="form">
+        <span class="value"><img class="currency-icon" src="currency-logo-exact.svg" alt="">150</span>
+        <span class="tag">الرمز</span>
+      </div>
+      <span class="eq">=</span>
+      <div class="form"><span class="value">150 د.ع</span><span class="tag">د.ع</span></div>
+      <span class="eq">=</span>
+      <div class="form"><span class="value">150 IQD</span><span class="tag">IQD</span></div>
+    </div>
+  </div>
+
+  <div class="group">
+    <div class="three">
+      <div class="form">
+        <span class="value"><img class="currency-icon" src="currency-logo-exact.svg" alt="">5,000</span>
+        <span class="tag">الرمز</span>
+      </div>
+      <span class="eq">=</span>
+      <div class="form"><span class="value">5,000 د.ع</span><span class="tag">د.ع</span></div>
+      <span class="eq">=</span>
+      <div class="form"><span class="value">5,000 IQD</span><span class="tag">IQD</span></div>
+    </div>
+  </div>
+
+  <div class="group">
+    <div class="three">
+      <div class="form">
+        <span class="value"><img class="currency-icon" src="currency-logo-exact.svg" alt="">25,000</span>
+        <span class="tag">الرمز</span>
+      </div>
+      <span class="eq">=</span>
+      <div class="form"><span class="value">25,000 د.ع</span><span class="tag">د.ع</span></div>
+      <span class="eq">=</span>
+      <div class="form"><span class="value">25,000 IQD</span><span class="tag">IQD</span></div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

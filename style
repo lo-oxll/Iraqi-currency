@@ -14,6 +14,6 @@ h2{text-align:center;font-size:16px;color:#12141C;margin-bottom:6px;}
 .eq{font-size:22px;color:#C8952E;font-weight:800;}
 
 .currency-icon{
-  width:1.15em;height:1.15em;
+  width:0.85em;height:0.85em;
   display:inline-block;
 }
